@@ -1,0 +1,8 @@
+p {
+    background-color: palevioletred;
+    color: white;
+}
+
+.dark {
+    display: none;
+}
